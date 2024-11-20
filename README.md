@@ -3,6 +3,7 @@
 
 2024级新生入门任务为期十周，包含必须完成学习的基本知识，以及需要自己长时间持续学习的知识。所有学习的内容必须有相关笔记（不限格式，可.docx、.md）以及代码的输出，每周学习得到的笔记和代码使用git远程仓库管理，以周为单位保存，如：
 
+```
 name
  |-- week1
  |  |-- 李宏毅视频笔记
@@ -12,9 +13,7 @@ name
  |-- week2
  |  |-- 李宏毅视频笔记
  |  |  |-- xxx.md 或 xxx.docx
- ...
-
- 
+```
 
 每周周末填写[周报](第x周-姓名-周报-20230627.xlsx)，并发送到邮箱：xxx，邮件中添加excel周报附件，以及git远程仓库的地址。大家学习中的疑惑也可以记在笔记或者邮件中，各位老师师兄看到都会回复。
 
@@ -26,11 +25,11 @@ name
 
 ​        主要参考资料：
 
-–       [【授权】李宏毅2023春机器学习课程*哔哩哔哩*bilibili](https://www.bilibili.com/video/BV1TD4y137mP/?vd_source=09614df33504ffaff7c056d2a8c06e74)
+- [【授权】李宏毅2023春机器学习课程*哔哩哔哩*bilibili](https://www.bilibili.com/video/BV1TD4y137mP/?vd_source=09614df33504ffaff7c056d2a8c06e74)
 
 ​        （注，本视频集完整记录了李教授2023春包括tutorial的所有课程，除了任务安排指定，课程中其他选修部分都不做硬性要求；）
 
-–       [跟李沐学AI](https://space.bilibili.com/1567748478?spm_id_from=333.337.0.0)
+- [跟李沐学AI](https://space.bilibili.com/1567748478?spm_id_from=333.337.0.0)
 
 2. Linux 基本命令
 3. git 工具
@@ -42,16 +41,16 @@ name
 
 ​        主要参考资料：
 
-–       [【布客】PyTorch 中文翻译 (apachecn.org)](https://pytorch1x.apachecn.org/)
+-  [【布客】PyTorch 中文翻译 (apachecn.org)](https://pytorch1x.apachecn.org/)
 
-–       [TingsongYu/PyTorch-Tutorial-2nd: 《Pytorch实用教程》（第二版）无论是零基础入门，还是CV、NLP、LLM项目应用，或是进阶工程化部署落地，在这里都有。相信在本书的帮助下，读者将能够轻松掌握 PyTorch 的使用，成为一名优秀的深度学习工程师。 (github.com)](https://github.com/TingsongYu/PyTorch-Tutorial-2nd)
+-  [TingsongYu/PyTorch-Tutorial-2nd: 《Pytorch实用教程》（第二版）无论是零基础入门，还是CV、NLP、LLM项目应用，或是进阶工程化部署落地，在这里都有。相信在本书的帮助下，读者将能够轻松掌握 PyTorch 的使用，成为一名优秀的深度学习工程师。 (github.com)](https://github.com/TingsongYu/PyTorch-Tutorial-2nd)
 
 **需要长时间学习的知识包括：**
 
 1. Python
 2. [跟李沐学AI的个人空间 哔哩哔哩 bilibili](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=398820) 论文精读系列
 
-注意，不要花费过多的时间在各种环境配置，以及扩展插件等功能上，所有环境都只是工具，为实现代码而服务
+注意：不要花费过多的时间在各种环境配置，以及扩展插件等功能上，所有环境都只是工具，为实现代码而服务
 
 
 
@@ -61,21 +60,21 @@ name
 
 1. 机器学习&ChatGPT相关基础概念以及Pytorch基础操作
 
-–       [(正课)机器学习 2023 规则说明*哔哩哔哩*bilibili](https://www.bilibili.com/video/BV1TD4y137mP?p=1&vd_source=09614df33504ffaff7c056d2a8c06e74)
+- [(正课)机器学习 2023 规则说明*哔哩哔哩*bilibili](https://www.bilibili.com/video/BV1TD4y137mP?p=1&vd_source=09614df33504ffaff7c056d2a8c06e74)
 
-–       [(正课)【生成式AI】ChatGPT原理剖析(1_3)-对 ChatGPT 的常见误解*哔哩哔哩*bilibili](https://www.bilibili.com/video/BV1TD4y137mP?p=2&vd_source=09614df33504ffaff7c056d2a8c06e74)
+- [(正课)【生成式AI】ChatGPT原理剖析(1_3)-对 ChatGPT 的常见误解*哔哩哔哩*bilibili](https://www.bilibili.com/video/BV1TD4y137mP?p=2&vd_source=09614df33504ffaff7c056d2a8c06e74)
 
 ​         第一节内容：P1-P9
 
 2. git 代码仓库的学习
 
-–       [Git使用教程,最详细，最傻瓜，最浅显，真正手把手教 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/30044692)
+-  [Git使用教程,最详细，最傻瓜，最浅显，真正手把手教 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/30044692)
 
-–       [收藏了！Git 核心操作图解 (qq.com)](https://mp.weixin.qq.com/s/Fg5rht0k583YvHD0pMJ_BQ)
+- [收藏了！Git 核心操作图解 (qq.com)](https://mp.weixin.qq.com/s/Fg5rht0k583YvHD0pMJ_BQ)
 
-–       [GitHub仓库快速导入Gitee及同步更新 - Gitee.com](https://gitee.com/help/articles/4284#article-header1)
+- [GitHub仓库快速导入Gitee及同步更新 - Gitee.com](https://gitee.com/help/articles/4284#article-header1)
 
-–       [Gitee 帮助中心 - Gitee.com](https://gitee.com/help)
+- [Gitee 帮助中心 - Gitee.com](https://gitee.com/help)
 
 
 
@@ -355,8 +354,6 @@ name
 
 
 ### 输出
-
-
 
 1. 视频课程学习笔记以及作业
 2. 阶段四涵盖预训练模型微调的基本过程，主要目的为熟悉paddleNLP平台，记录实验结果
