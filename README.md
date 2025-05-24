@@ -1,7 +1,8 @@
-# GraduateLearning
+# grad-notes-2025
+
 ## 前言
 
-2024级新生入门任务为期十周，包含必须完成学习的基本知识，以及需要自己长时间持续学习的知识。所有学习的内容必须有相关笔记（不限格式，可.docx、.md）以及代码的输出，每周学习得到的笔记和代码使用git远程仓库管理，以周为单位保存，如：
+2025级新生入门任务为期十周，包含必须完成学习的基本知识，以及需要自己长时间持续学习的知识。所有学习的内容必须有相关笔记（不限格式，可.docx、.md）以及代码的输出，每周学习得到的笔记和代码使用git远程仓库管理，以周为单位保存，如：
 
 ```
 name
@@ -15,44 +16,39 @@ name
  |  |  |-- xxx.md 或 xxx.docx
 ```
 
-每周周末填写[周报](第x周-姓名-周报-20230627.xlsx)，并发送到邮箱：xxx，邮件中添加excel周报附件，以及git远程仓库的地址。大家学习中的疑惑也可以记在笔记或者邮件中，各位老师师兄看到都会回复。
+每周周末填写周报，并发送到邮箱：xxx，邮件中添加excel周报附件，以及git远程仓库的地址。大家学习中的疑惑也可以记在笔记或者邮件中，各位老师师兄看到都会回复。
 
- 
 
 **必须完成学习的知识包括：**
 
 1. 深度学习入门
 
-​        主要参考资料：
-
 - [【授权】李宏毅2023春机器学习课程*哔哩哔哩*bilibili](https://www.bilibili.com/video/BV1TD4y137mP/?vd_source=09614df33504ffaff7c056d2a8c06e74)
 
-​        （注，本视频集完整记录了李教授2023春包括tutorial的所有课程，除了任务安排指定，课程中其他选修部分都不做硬性要求；）
+> 注：本视频集完整记录了李教授2023春包括tutorial的所有课程，除了任务安排指定，课程中其他选修部分都不做硬性要求
 
 - [跟李沐学AI](https://space.bilibili.com/1567748478?spm_id_from=333.337.0.0)
 
 2. Linux 基本命令
 3. git 工具
 
-​        （注，涉及有关项目实践和任务输出的内容，都使用gitee进行版本和内容管理）
+> 注，涉及有关项目实践和任务输出的内容，都使用github/gitee进行版本和内容管理
 
 4. 循环神经网络（Recurrent Neural Network，RNN）、Transformer、部分预训练模型（Pretrained Model）、大语言模型（Large Language Model）入门
+
 5. pytorch
 
-​        主要参考资料：
+-  [【布客】PyTorch 中文翻译](https://pytorch1x.apachecn.org/)
 
--  [【布客】PyTorch 中文翻译 (apachecn.org)](https://pytorch1x.apachecn.org/)
-
--  [TingsongYu/PyTorch-Tutorial-2nd: 《Pytorch实用教程》（第二版）无论是零基础入门，还是CV、NLP、LLM项目应用，或是进阶工程化部署落地，在这里都有。相信在本书的帮助下，读者将能够轻松掌握 PyTorch 的使用，成为一名优秀的深度学习工程师。 (github.com)](https://github.com/TingsongYu/PyTorch-Tutorial-2nd)
+-  [Pytorch实用教程](https://github.com/TingsongYu/PyTorch-Tutorial-2nd)
 
 **需要长时间学习的知识包括：**
 
 1. Python
-2. [跟李沐学AI的个人空间 哔哩哔哩 bilibili](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=398820) 论文精读系列
 
-注意：不要花费过多的时间在各种环境配置，以及扩展插件等功能上，所有环境都只是工具，为实现代码而服务
+2. [跟李沐学AI 论文精读系列](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=398820)
 
-
+> 注意：不要花费过多的时间在各种环境配置，以及扩展插件等功能上，所有环境都只是工具，为实现代码而服务
 
 ## 第一周（6.19-6.25）
 
@@ -76,14 +72,10 @@ name
 
 - [Gitee 帮助中心 - Gitee.com](https://gitee.com/help)
 
-
-
 ### 输出
 
 1. 在[Gitee](https://gitee.com/)上，建立自己的笔记仓库，利用git工具进行自己笔记的版本管理，学会分支、合并等基本操作
 2. 视频课程学习笔记并将自己的笔记上传到在1.上建立的自己的gitee笔记仓库中，作业部分不用完成（可以根据视频讲解和博主提供的git/gitee仓库中的内容学习）
-
-
 
 ## 第二周（6.26-7.02）
 
@@ -91,9 +83,7 @@ name
 
 1. 机器学习基本原理
 
-- [(正课)【生成式AI】快速了解机器学习基本原理 (1_2) (已经略懂机器学习的同学可以跳过这段)*哔哩哔哩*bilibili](https://www.bilibili.com/video/BV1TD4y137mP?p=13&vd_source=09614df33504ffaff7c056d2a8c06e74)
-
-​        P13-P21
+- [(正课)【生成式AI】快速了解机器学习基本原理 (1_2) (已经略懂机器学习的同学可以跳过这段)*哔哩哔哩*bilibili](https://www.bilibili.com/video/BV1TD4y137mP?p=13&vd_source=09614df33504ffaff7c056d2a8c06e74)P13-P21
 
 2. Linux环境配置以及基本命令
 
@@ -107,14 +97,11 @@ name
 
 - 了解Linux基本操作 [第一章：引言 · The Linux Command Line 中文版 · 看云 (kancloud.cn)](https://www.kancloud.cn/thinkphp/linux-command-line/39431)
 
-
-
 ### 输出
 
 1. 视频课程学习笔记并上传到自己的gitee笔记仓库中
+
 2. 完成linux的配置以及基本操作的学习
-
-
 
 ## 第三周（7.03-7.09）
 
@@ -122,15 +109,11 @@ name
 
 1. 生成式AI
 
--  [(正课)【生成式AI】Finetuning vs. Prompting：对于大型语言模型的不同期待所衍生的两类使用方式 (1_3)*哔哩哔哩*bilibili](https://www.bilibili.com/video/BV1TD4y137mP?p=23&vd_source=09614df33504ffaff7c056d2a8c06e74)
-
-​        P23-P25
+-  [(正课)【生成式AI】Finetuning vs. Prompting：对于大型语言模型的不同期待所衍生的两类使用方式 (1_3)*哔哩哔哩*bilibili](https://www.bilibili.com/video/BV1TD4y137mP?p=23&vd_source=09614df33504ffaff7c056d2a8c06e74) P23-P25
 
 2. 课程作业
 
-- [(作业)Colab Tutorial (introduction + demo)*哔哩哔哩*bilibili](https://www.bilibili.com/video/BV1TD4y137mP?p=10&vd_source=09614df33504ffaff7c056d2a8c06e74)
-
-​        P10-P12，P22，P28
+- [(作业)Colab Tutorial (introduction + demo)*哔哩哔哩*bilibili](https://www.bilibili.com/video/BV1TD4y137mP?p=10&vd_source=09614df33504ffaff7c056d2a8c06e74) P10-P12，P22，P28
 
 3. 在WSL2下安装anaconda或miniconda（功能更轻量级，占用空间更小）并配置PyTorch环境（PyTorch有GPU版和CPU版，个人笔记本上使用CPU版就行，后续进入实验室后会分配有GPU的服务器）
 
@@ -142,9 +125,9 @@ name
 
 -使用方法：
 
-•       [Jupyter Notebook介绍、安装及使用教程 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/33105153)
+- [Jupyter Notebook介绍、安装及使用教程 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/33105153)
 
-•       [最详尽使用指南：超快上手Jupyter Notebook - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/32320214)
+- [最详尽使用指南：超快上手Jupyter Notebook - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/32320214)
 
 5. PyTorch包学习
 
@@ -156,8 +139,6 @@ name
 
 - [飞桨PaddlePaddle-源于产业实践的开源深度学习平台](https://www.paddlepaddle.org.cn/tutorials/projectdetail/5603475) 前五章
 
-
-
 ### 输出
 
 1. 视频课程学习笔记
@@ -165,31 +146,25 @@ name
 3. 初步了解PaddlePaddle，以及与PyTorch的转换关系
 4. 完成P10-P12，P22，P28的课程作业
 
-
-
 ## 第四周（7.10-7.16）
 
 ### 任务
 
 1. 大模型
 
-- [(正课)大模型 + 大资料 = 神奇结果？ (1_3)：大模型的顿悟时刻*哔哩哔哩*bilibili](https://www.bilibili.com/video/BV1TD4y137mP?p=29&vd_source=09614df33504ffaff7c056d2a8c06e74)
-
-​        P29-P33
+- [(正课)大模型 + 大资料 = 神奇结果？ (1_3)：大模型的顿悟时刻*哔哩哔哩*bilibili](https://www.bilibili.com/video/BV1TD4y137mP?p=29&vd_source=09614df33504ffaff7c056d2a8c06e74) P29-P33
 
 2. 图像生成模型
 
--[(正课)速览图像生成常见模型*哔哩哔哩*bilibili](https://www.bilibili.com/video/BV1TD4y137mP?p=34&vd_source=09614df33504ffaff7c056d2a8c06e74)
-
-​        P35-P36，P39-P41
+- [(正课)速览图像生成常见模型*哔哩哔哩*bilibili](https://www.bilibili.com/video/BV1TD4y137mP?p=34&vd_source=09614df33504ffaff7c056d2a8c06e74) P35-P36，P39-P41
 
 3. PyTorch入门中剩下部分的学习
 
-​        [【布客】PyTorch 中文翻译 (apachecn.org)](https://pytorch1x.apachecn.org/)
+- [【布客】PyTorch 中文翻译 (apachecn.org)](https://pytorch1x.apachecn.org/)
 
 4. PaddlePaddle包配置尝试
 
-​        [使用指南-使用文档-PaddlePaddle深度学习平台](https://www.paddlepaddle.org.cn/documentation/docs/zh/guides/index_cn.html)
+- [使用指南-使用文档-PaddlePaddle深度学习平台](https://www.paddlepaddle.org.cn/documentation/docs/zh/guides/index_cn.html)
 
 
 
@@ -199,23 +174,21 @@ name
 2. 完成PyTorch教程上的代码教程
 3. 完成环境配置以及对PaddlePaddle的初步实践
 
-
-
 ## 第五周（7.17-7.23）
 
 ### 任务
 
 1. NLP相关基础知识
 
--自然语言处理导引及词向量[Lecture 1 - Introduction and Word Vector](https://www.bilibili.com/video/BV12z4y1i7vh?p=1)
+- 自然语言处理导引及词向量[Lecture 1 - Introduction and Word Vector](https://www.bilibili.com/video/BV12z4y1i7vh?p=1)
 
 - Word2vec参考资料：
 
-（1）    [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
+    1. [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
 
-（2）    [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/pdf/1310.4546.pdf)
+    2. [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/pdf/1310.4546.pdf)
 
-（3）    [word2vec Parameter Learnin](https://arxiv.org/pdf/1411.2738.pdf)[g](https://arxiv.org/pdf/1411.2738.pdf)[ Explained](https://arxiv.org/pdf/1411.2738.pdf)
+    3. [word2vec Parameter Learnin](https://arxiv.org/pdf/1411.2738.pdf)[g](https://arxiv.org/pdf/1411.2738.pdf)[ Explained](https://arxiv.org/pdf/1411.2738.pdf)
 
 - 依赖分析[Lecture 4 - Dependenc](https://www.bilibili.com/video/BV12z4y1i7vh?p=4)[y](https://www.bilibili.com/video/BV12z4y1i7vh?p=4)[ Parsin](https://www.bilibili.com/video/BV12z4y1i7vh?p=4)[g](https://www.bilibili.com/video/BV12z4y1i7vh?p=4)
 
@@ -248,7 +221,7 @@ name
 
 - 翻译任务[Lecture 7 - Translation](https://www.bilibili.com/video/BV12z4y1i7vh?p=7)[,](https://www.bilibili.com/video/BV12z4y1i7vh?p=7)[ Seq2Seq](https://www.bilibili.com/video/BV12z4y1i7vh?p=7)[,](https://www.bilibili.com/video/BV12z4y1i7vh?p=7)[ Attention](https://www.bilibili.com/video/BV12z4y1i7vh?p=7)
 
-这部分内容中包含的序列模型，注意力机制在第四周的神经网络训练任务部分已经讲述过，所以该部分可以略看。
+> 这部分内容中包含的序列模型，注意力机制在第四周的神经网络训练任务部分已经讲述过，所以该部分可以略看。
 
 - 问答任务[Lecture 11 - Question Answerin](https://www.bilibili.com/video/BV12z4y1i7vh?p=11)[g](https://www.bilibili.com/video/BV12z4y1i7vh?p=11)
 
@@ -335,7 +308,7 @@ name
 
 - [语义检索系统](https://github.com/PaddlePaddle/PaddleNLP/tree/develop/applications/neural_search)
 
-- [智能问答系统 ](https://github.com/PaddlePaddle/PaddleNLP/tree/develop/applications/document_intelligence/doc_vqa)
+- [智能问答系统](https://github.com/PaddlePaddle/PaddleNLP/tree/develop/applications/document_intelligence/doc_vqa)
 
 - [情感分析](https://github.com/PaddlePaddle/PaddleNLP/tree/develop/applications/sentiment_analysis)
 
