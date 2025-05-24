@@ -54,13 +54,11 @@ name
 
 ### 任务
 
-1. 机器学习&ChatGPT相关基础概念以及Pytorch基础操作
+1. 机器学习&ChatGPT相关基础概念以及Pytorch基础操作：第一节内容：P1-P9
 
 - [(正课)机器学习 2023 规则说明*哔哩哔哩*bilibili](https://www.bilibili.com/video/BV1TD4y137mP?p=1&vd_source=09614df33504ffaff7c056d2a8c06e74)
 
 - [(正课)【生成式AI】ChatGPT原理剖析(1_3)-对 ChatGPT 的常见误解*哔哩哔哩*bilibili](https://www.bilibili.com/video/BV1TD4y137mP?p=2&vd_source=09614df33504ffaff7c056d2a8c06e74)
-
-​         第一节内容：P1-P9
 
 2. git 代码仓库的学习
 
